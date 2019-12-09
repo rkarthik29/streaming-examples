@@ -12,7 +12,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-public class KStreamsJoins {
+public class KStreamsJoinExample {
     public static void main(String[] args) {
         Properties streamsConfiguration = new Properties();
         // Give the Streams application a unique name. The name must be unique in the Kafka cluster
